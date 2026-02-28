@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database
+*.db
+
+# Test files
+test_*.txt
+
+# Frontend
+node_modules/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
