@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 
-const API_BASE = "http://localhost:8001";
+const API_BASE = "https://careersyncai-j0wc.onrender.com";
 
 interface Stats {
   total_analyses: number;
